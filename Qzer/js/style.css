@@ -1,0 +1,101 @@
+    
+    .navbar_head{
+        background:#130f40;
+      }
+     #nava{
+        margin-left:10px;
+        color:snow;
+        font-weight:600;
+        font-size:16px;
+        transition:all 0.3s ease-in-out;
+
+      }
+      #nava:hover{
+       color: #e67e22;
+       transform: scale(1.2,1.2); 
+      }
+     #brand_name{
+          color:snow;
+          font-family: Arial, Helvetica, sans-serif;
+          font-weight: 660;
+          font-size: 26px;
+          letter-spacing: 1px;
+          text-shadow: 3px 3px 1px darkcyan;
+      }
+        .available_courses{
+            background: purple;
+            color: white;
+            padding: 30px;
+        }
+        .head{
+            font-size: 50px;
+            font-weight: 700;
+            text-align: center;
+            color:#EE5A24;
+            color: #fff200;
+        }
+        .inst_name{
+           font-size: 120px;
+            font-weight: 700;
+            text-align: center;
+            color: #fff200;
+            color:#ffffff;
+        }
+        .available_courses li{
+            list-style: none;
+            margin-top: 10px;
+        }
+        .available_courses li a{
+            list-style: none;
+            font-size: 20px;
+            font-weight: 400;
+            color: snow;
+            transition: all 0.5s ease;
+            
+        }
+        .available_courses li a:hover{
+            color: darkcyan;
+            text-decoration: none;
+        }
+        .available_courses button{
+            padding: 10px;
+            font-size: 20px;
+        }
+        .table tr{
+            color: snow;
+            font-size: 17px;
+        }
+        .fa{
+            transition: all 0.6s ease;
+        }
+        .fa:hover{
+            color:goldenrod;
+            transform: scale(1.8, 1.8);
+            
+        }
+        table a{
+            color:snow;
+            font-size:20px;
+            font-weight: 500;
+            transition: all 0.6s ease;
+        }
+            table a:hover{
+            color:goldenrod;
+            transform: scale(1.5, 1.5);
+            text-decoration: none;
+        }
+        #getstarted{
+
+                        background:#130f40;
+            font-size: 20px;
+            padding: 10px;
+            transition: all 0.3s ease;
+        }
+        #getstarted:hover{
+                        background:#2c2c54;
+          
+        }
+        #front_link{
+            margin-top: 150px;
+        }
+    </style>
